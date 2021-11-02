@@ -41,6 +41,12 @@ h1 {
 .tagline {
   margin-top: 20px;
   margin-bottom: 20px;
+  
+}
+
+.tagline ul {
+  display: flex;
+  flex-direction: column;
 }
 
 .tagline span {
